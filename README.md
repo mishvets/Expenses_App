@@ -1,6 +1,6 @@
-# expenses_app
+# Expenses_App
 
-A new Flutter project.
+A Flutter project for course "Flutter & Dart - The Complete Guid".
 
 ## Getting Started
 
